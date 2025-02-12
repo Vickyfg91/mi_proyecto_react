@@ -55,7 +55,7 @@ Clona el repositorio original en tu máquina local
 
     # Define the command to run your app
     CMD ["npm", "start"]
-    ```
+  ```
 ### **2. Creación del Repositorio en GitHub**
 - Crea un nuevo repositorio en tu cuenta de GitHub con el nombre mi_proyecto_react.
 
